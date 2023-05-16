@@ -1,6 +1,9 @@
 ### Welcome 👋
+<a href="https://www.instagram.com/jjong._.rara/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+
+
   I`m Back-End Developer jongpyo-hong 😃
-  <a href="https://www.instagram.com/jjong._.rara/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white"/></a>
+  
   
   
   I enjoy exercise💪 , play games🎮 and working 🖥️ ! 
