@@ -10,5 +10,4 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=plastic&logo=springboot&logoColor=white"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongpyo-hong&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongpyo-hong&show_icons=true&theme=radical)
 
