@@ -1,4 +1,8 @@
-### Welcome 👋
+### Welcome 
+- I`m Back-End Developer jongpyo-hong 👋
+  I enjoy exercise💪 , play games🎮 and working 🖥️ ! 
+  
+  I hope to your peace every time 🙏
 
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white"/></a>
 <a href="https://github.com/jongpyo-hong/Project_social-media-app" target="_blank"><img src="https://img.shields.io/badge/React-FF4154?style=plastic&logo=reactquery&logoColor=white"/></a>
