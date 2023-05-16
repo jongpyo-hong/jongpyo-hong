@@ -1,7 +1,7 @@
 ### Welcome 👋
   I`m Back-End Developer jongpyo-hong 😃
-  I enjoy exercise💪 , play games🎮 and working 🖥️ ! 
   
+  I enjoy exercise💪 , play games🎮 and working 🖥️ ! 
   I hope to your peace every time 🙏
   
 #### skills ⭐
