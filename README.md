@@ -19,6 +19,7 @@
 <br>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/github-181717?style=plastic&logo=github&logoColor=white"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/oracle-F80000?style=plastic&logo=oracle&logoColor=white"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/thymeleaf-005F0F?style=plastic&logo=thymeleaf&logoColor=white"/></a>
 
 
 #### status 🌟
