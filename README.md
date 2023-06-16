@@ -28,10 +28,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongpyo-hong&&show_icons=true&theme=vue)
 
 #### Portfolio
-<a href="https://github.com/park198909/springA2_classB" id="1">그룹 프로젝트 👨‍👨‍👦‍👦📃</a>
+<a href="https://github.com/park198909/springA2_classB" id="1">👨‍👨‍👦‍👦📃</a>
 
 <br>
 
-<a href="https://github.com/park198909/springA2_classB" id="2">개인 프로젝트 👨‍👨‍👦‍👦📃</a>
+<a href="https://github.com/park198909/springA2_classB" id="2">👨‍👨‍👦‍👦📃</a>
 
 
