@@ -32,6 +32,6 @@
 
 <br>
 
-<a href="https://github.com/park198909/springA2_classB" id="2">👨‍👨‍👦‍👦📃</a>
+<a href="https://shopproject.xyz" id="2">👨‍👨‍👦‍👦📃</a>
 
 
